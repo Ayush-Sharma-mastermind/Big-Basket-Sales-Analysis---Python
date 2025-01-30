@@ -1,5 +1,4 @@
-![Big Basket Project](https://www.google.com/imgres?q=big%20basket&imgurl=https%3A%2F%2Fpeekncooksa.blob.core.windows.net%2Findex-blogposts%2Fbigbasket.jpg&imgrefurl=https%3A%2F%2Fwww.peekncook.com%2FDisplay-Review%2F1%2Fwhy-i-started-using-bigbasket-for-all-my-grocery-shopping&docid=-6OaYGFxzzfOhM&tbnid=9gpOwy-XC0WdGM&vet=12ahUKEwjSydj5h56LAxVNgK8BHQmtAFcQM3oECFwQAA..i&w=950&h=713&hcb=2&ved=2ahUKEwjSydj5h56LAxVNgK8BHQmtAFcQM3oECFwQAA)
-
+![Big Basket Project](https://www.code-brew.com/wp-content/uploads/2018/05/SUCCESS-STORY-1.png)
 BigBasket Sales Analysis Overview: This project presents an in-depth sales analysis for BigBasket, focusing on key insights into product performance, sales trends, and customer preferences. The analysis aims to identify opportunities for optimizing sales, improving product portfolios, and enhancing overall business strategies.
 
 Objective: The primary goal is to analyze top-selling and underperforming products, evaluate pricing strategies, and suggest actionable recommendations to improve sales and customer satisfaction.
